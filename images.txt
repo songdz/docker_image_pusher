@@ -1,2 +1,2 @@
 #支持私库
-onlyoffice/documentserver
+rancher/pause:3.1
